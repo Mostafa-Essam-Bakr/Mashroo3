@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Mashroo3/static/css/main.f855e6bc.css",
+    "main.js": "/Mashroo3/static/js/main.228fbbd8.js",
+    "static/js/787.f59291e0.chunk.js": "/Mashroo3/static/js/787.f59291e0.chunk.js",
+    "static/media/im1.jpg": "/Mashroo3/static/media/im1.63fe19afeb21af4b945f.jpg",
+    "static/media/logo.svg": "/Mashroo3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mashroo3/index.html",
+    "main.f855e6bc.css.map": "/Mashroo3/static/css/main.f855e6bc.css.map",
+    "main.228fbbd8.js.map": "/Mashroo3/static/js/main.228fbbd8.js.map",
+    "787.f59291e0.chunk.js.map": "/Mashroo3/static/js/787.f59291e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.228fbbd8.js"
+  ]
+}
